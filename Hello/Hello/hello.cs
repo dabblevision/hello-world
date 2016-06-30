@@ -2,9 +2,10 @@ using System;
 
 public class Program
 {
-  static void Main()
-  {
-    Console.WriteLine("Hello, World!");
-    Console.WriteLine(DateTime.Now.DayOfWeek);
-  }
+    // this is a comment 
+    static void Main()
+    {
+        Console.WriteLine("Hello, World!");
+        Console.WriteLine(DateTime.Now.DayOfWeek);
+    }
 }
