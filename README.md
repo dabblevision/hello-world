@@ -5,3 +5,5 @@ I'm supposed to write about myself here, but seeing as this is a public reposito
 
 
 I'm trying out the git-plus package for atom now. This is my change, and I'll try to commit and push it now.
+
+another test line 
